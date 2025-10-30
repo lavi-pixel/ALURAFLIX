@@ -8,9 +8,9 @@ body  {
 
 header {
 	font-size: 2.5rem;
-	border-bottom: inset 2px #e716d6;
+	border-bottom: inset 4px #000000;
 	padding: 20px;
-	color: #83056e;
+	color: #763391;
 	text-align: center;
 }
 
