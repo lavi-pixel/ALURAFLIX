@@ -26,7 +26,7 @@ p {
 }
 
 section {
-	background-color: #7faed1;
+	background-color: rgb(225 95 154);
 	padding-top: 80px ;
 	padding-bottom: 80px;
 	display: flex;
@@ -39,7 +39,7 @@ section {
 
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(95 206 225);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
